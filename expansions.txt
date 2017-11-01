@@ -556,6 +556,7 @@ Nonsense Parser Microframework
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
 Nonstop Pajama Models
+Nonstop Party of \m/odules
 Nonstop Perpetual Motion
 Nonstop Pet Mewing
 Nonstop Progressive Marxism
